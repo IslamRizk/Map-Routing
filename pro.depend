@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1545818695 source:c:\users\maka\desktop\map_final\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<stack>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<math.h>
+	<map>
+	<algorithm>
+	<string>
+	<cstring>
+	<string.h>
+	<iterator>
+	<bitset>
+	<queue>
+	<time.h>
+
